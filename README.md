@@ -5,6 +5,9 @@
 - 📫 Reach Me: 
 https://twitter.com/kingneville23
 https://www.linkedin.com/in/neville-nyamhindu-58426b143/
+www.linkedin.com/in/neville-nyamhindu
+
+
 
 <!---
 2025-Nev/2025-Nev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
