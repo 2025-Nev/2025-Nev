@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on web development projects and cloud computing
 - 📫 Reach Me: 
 https://twitter.com/kingneville23
-https://www.linkedin.com/in/neville-nyamhindu-58426b143/
 www.linkedin.com/in/neville-nyamhindu
 
 
