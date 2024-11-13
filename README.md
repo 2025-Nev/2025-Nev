@@ -1,14 +1,17 @@
-- 👋 Hi, I’m @2025-Nev
-- 👀 I’m interested in Software Engineering, Cloud Computing and Data Science.
-- 🌱 I’m currently learning software engineering with ALX.
-- 💞️ I’m looking to collaborate on web development projects and cloud computing
-- 📫 Reach Me: 
-https://twitter.com/kingneville23
-www.linkedin.com/in/neville-nyamhindu
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/neville-nyamhindu)
 
+## 💻 Tech Stack
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
 
-
-<!---
-2025-Nev/2025-Nev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2025-Nev&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2025-Nev&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-2025-Nev&theme=dark)
